@@ -19,7 +19,7 @@ Meet the talented individuals behind Website4You:
 
 - [**Lahiru Supun**](link-to-template-1)
   - *Role*: Senior Software Engineer
-- [**Kavindu Harshana**](link-to-template-1)
+- [**Kavindu Harshana**](https://twitter.com/Kythonlk)
   - *Role*: Fullstack Developer
 
 ## Templates
