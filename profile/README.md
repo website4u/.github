@@ -1,6 +1,6 @@
 # Welcome to Website4You
 
-![Website4You Logo](your-logo.png)
+![Website4You Logo](./profile/website4u.png)
 
 ## About Website4You
 
