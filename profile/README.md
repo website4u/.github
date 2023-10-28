@@ -27,16 +27,16 @@ Meet the talented individuals behind Website4You:
 Check out our collection of ready-made website templates for rapid development:
 
 
-| Template Name          | Description                       | Status          |
-|------------------------|-----------------------------------|-----------------|
-| Business Landing Page  | A template for business websites  | <font color="green">:white_check_mark:</font> Completed |
-| Studio Booking         | A template for booking studios    | <font color="green">:white_check_mark:</font> Completed |
-| React Integrated LP    | Landing page integrated with React | <font color="green">:white_check_mark:</font> Completed |
-| Nextjs CMS Dashbord    | A CMS for our all customers add content. | :x: In Progress     |
-| E-commerce site        | E-commerce website with nextjs | :x: In Progress     |
-| E-commerce dashbord    | E-commerce website dashbord with nextjs | :x: In Progress    |
-| Template 7             | Description for Template 7        | :x: Not Started     |
-| Template 8             | Description for Template 8        | :x: Not Started     |
+| Template Name          | Description                       | Status          | Done      |
+|------------------------|-----------------------------------|-----------------|------------|
+| Business Landing Page  | A template for business websites  | <font color="green">:white_check_mark:</font> Completed | :x: In Progress     |
+| Studio Booking         | A template for booking studios    | <font color="green">:white_check_mark:</font> Completed | :x: In Progress  |   
+| React Integrated LP    | Landing page integrated with React | <font color="green">:white_check_mark:</font> Completed | :x: In Progress     
+| Nextjs CMS Dashbord    | A CMS for our all customers add content. | :x: In Progress     | :x: In Progress     |
+| E-commerce site        | E-commerce website with nextjs | :x: In Progress     | :x: In Progress     |
+| E-commerce dashbord    | E-commerce website dashbord with nextjs | :x: In Progress    | :x: In Progress     |
+| Template 7             | Description for Template 7        | :x: Not Started     | :x: In Progress     
+| Template 8             | Description for Template 8        | :x: Not Started     | :x: In Progress     |
 
 ## Getting Started
 
