@@ -27,16 +27,16 @@ Meet the talented individuals behind Website4You:
 Check out our collection of ready-made website templates for rapid development:
 
 
-| Template Name          | Description                       | Status          | Done      |
-|------------------------|-----------------------------------|-----------------|------------|
-| Business Landing Page  | A template for business websites  | <font color="green">:white_check_mark:</font> Completed | :x: In Progress     |
-| Studio Booking         | A template for booking studios    | <font color="green">:white_check_mark:</font> Completed | :x: In Progress  |   
-| React Integrated LP    | Landing page integrated with React | <font color="green">:white_check_mark:</font> Completed | :x: In Progress     
-| Nextjs CMS Dashbord    | A CMS for our all customers add content. | :x: In Progress     | :x: In Progress     |
-| E-commerce site        | E-commerce website with nextjs | :x: In Progress     | :x: In Progress     |
-| E-commerce dashbord    | E-commerce website dashbord with nextjs | :x: In Progress    | :x: In Progress     |
-| Template 7             | Description for Template 7        | :x: Not Started     | :x: In Progress     
-| Template 8             | Description for Template 8        | :x: Not Started     | :x: In Progress     |
+| Template Name          | Description                       | Not Started                                             | On going   | SEO | Done |
+|------------------------|-----------------------------------|---------------------------------------------------------|------------|------|-----|
+| Business Landing Page  | A template for business websites  | || :x:  |<font color="green">:white_check_mark:</font>|
+| Studio Booking         | A template for booking studios    | || :x: | <font color="green">:white_check_mark:</font> |
+| React Integrated LP    | Landing page integrated with React | || :x: |  <font color="green">:white_check_mark:</font>  |  
+| Nextjs CMS Dashbord    | A CMS for our all customers add content. |                              | <font color="green">:white_check_mark:</font> |||
+| E-commerce site        | E-commerce website with nextjs |  | <font color="green">:white_check_mark:</font> ||
+| E-commerce dashbord    | E-commerce website dashbord with nextjs | | <font color="green">:white_check_mark:</font> ||
+| CRM nextjs            | Crm Dashbord using NextJs  |<font color="green">:white_check_mark:</font> | | | |  
+| Template 8             | Description for Template 8        | <font color="green">:white_check_mark:</font> ||||
 
 ## Getting Started
 
