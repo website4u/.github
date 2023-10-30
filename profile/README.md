@@ -35,8 +35,8 @@ Check out our collection of ready-made website templates for rapid development:
 | Nextjs CMS Dashbord    | A CMS for our all customers add content. |                              | <font color="green">:white_check_mark:</font> |||
 | E-commerce site        | E-commerce website with nextjs |  | <font color="green">:white_check_mark:</font> ||
 | E-commerce dashbord    | E-commerce website dashbord with nextjs | | <font color="green">:white_check_mark:</font> ||
-| CRM nextjs            | Crm Dashbord using NextJs  |<font color="green">:white_check_mark:</font> | | | |  
-| Template 8             | Description for Template 8        | <font color="green">:white_check_mark:</font> ||||
+| CRM nextjs             | Crm Dashbord using NextJs  |<font color="green">:white_check_mark:</font> | | | |  
+| Food-truck Landing     | Food-truck astro template Website        | | <font color="green">:white_check_mark:</font>|||
 
 ## Getting Started
 
