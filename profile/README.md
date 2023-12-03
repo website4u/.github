@@ -9,6 +9,7 @@ Website4You is a dynamic web development company dedicated to creating high-perf
 ### Our Services
 
 - <font color="green">:white_check_mark:</font> **Web Development:** We design and develop websites that not only look stunning but also perform exceptionally well.
+- <font color="green">:white_check_mark:</font> **CMS for Every website:** We seamlessly integrate our content management systems like WordPress Used nextjs and supabase.
 - <font color="green">:white_check_mark:</font> **SEO Optimization:** We ensure your site is easily discoverable by search engines, improving your online presence.
 - <font color="green">:white_check_mark:</font> **CMS Integration:** We seamlessly integrate content management systems like WordPress as headless CMS.
 - <font color="green">:white_check_mark:</font> **Custom Solutions:** We provide tailor-made solutions to meet your unique needs.
@@ -34,9 +35,10 @@ Check out our collection of ready-made website templates for rapid development:
 | React Integrated LP    | Landing page integrated with React | || :x: |  <font color="green">:white_check_mark:</font>  |  
 | Nextjs CMS Dashbord    | A CMS for our all customers add content. |                              | <font color="green">:white_check_mark:</font> |||
 | E-commerce site        | E-commerce website with nextjs |  | <font color="green">:white_check_mark:</font> ||
-| E-commerce dashbord    | E-commerce website dashbord with nextjs | | <font color="green">:white_check_mark:</font> ||
-| CRM nextjs             | Crm Dashbord using NextJs  |<font color="green">:white_check_mark:</font> | | | |  
-| Food-truck Landing     | Food-truck astro template Website        | | <font color="green">:white_check_mark:</font>|||
+| E-commerce dashbord    | E-commerce website dashbord with nextjs | | <font color="green">:white_check_mark:</font> || <font color="green">:white_check_mark:</font>|
+| CRM nextjs             | Crm Dashbord using NextJs  | | <font color="green">:white_check_mark:</font> | | |  
+| Food-truck Landing     | Food-truck astro template Website        | ||| <font color="green">:white_check_mark:</font>|
+| Car Rental Website     | Food-truck astro template Website        | | <font color="green">:white_check_mark:</font>|||
 
 ## Getting Started
 
